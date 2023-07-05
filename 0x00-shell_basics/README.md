@@ -1,1 +1,0 @@
-Shabang scripts in shell
