@@ -1,1 +1,1 @@
-shell basics
+Shabang scripts in shell
