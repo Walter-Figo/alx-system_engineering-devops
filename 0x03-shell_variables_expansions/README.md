@@ -2,3 +2,4 @@
 2. Create a script that prints hello user
 3. Add /action to the path ./action
 4. Create a script that counts the number of directories in the path
+4. Script that lists environment variables.
