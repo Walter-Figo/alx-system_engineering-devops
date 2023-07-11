@@ -3,3 +3,4 @@
 3. Add /action to the path ./action
 4. Create a script that counts the number of directories in the path
 4. Script that lists environment variables.
+5. Script that lists all local variables and environment variables and functions
